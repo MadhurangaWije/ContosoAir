@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kanishkaw0941/MyTestProject/_apis/build/status/MadhurangaWije.ContosoAir?branchName=master)](https://dev.azure.com/kanishkaw0941/MyTestProject/_build/latest?definitionId=4&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
